@@ -39,3 +39,4 @@ src/display/images/display_images.h
 .spyderworkspace
 *.out
 *.d
+/_build
